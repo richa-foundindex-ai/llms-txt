@@ -1,0 +1,17 @@
+# llms.txt v0.1
+# Learn more: https://foundindex.com/llms-txt
+# Example for: Technical blog
+
+version: 0.1
+site-purpose: Technology blog covering web development, AI, and software engineering
+primary-audience: Software engineers, technical enthusiasts, developers
+authoritative-pages:
+  - /articles
+  - /tutorials
+  - /about
+authoritative-source: original-content
+scope: public-content-only
+content-freshness: updated-weekly
+contact-email: hello@example.com
+last-updated: 2025-12-16
+language: en
