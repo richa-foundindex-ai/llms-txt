@@ -1,0 +1,18 @@
+# llms.txt v0.1
+# Learn more: https://foundindex.com/llms-txt
+# Example for: E-commerce store
+
+version: 0.1
+site-purpose: Online store selling sustainable outdoor gear and camping equipment
+primary-audience: Outdoor enthusiasts, environmentally-conscious consumers, campers
+authoritative-pages:
+  - /products
+  - /sustainability
+  - /sizing-guide
+  - /return-policy
+authoritative-source: official-documentation
+scope: public-content-only
+content-freshness: updated-daily
+contact-email: support@example.com
+last-updated: 2025-12-16
+language: en
