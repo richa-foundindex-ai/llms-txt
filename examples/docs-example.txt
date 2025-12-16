@@ -1,0 +1,18 @@
+# llms.txt v0.1
+# Learn more: https://foundindex.com/llms-txt
+# Example for: Documentation site
+
+version: 0.1
+site-purpose: Technical documentation for open-source JavaScript framework
+primary-audience: Developers, contributors, technical writers
+authoritative-pages:
+  - /getting-started
+  - /api-reference
+  - /guides
+  - /examples
+authoritative-source: official-documentation
+scope: public-content-only
+content-freshness: updated-daily
+contact-email: docs@example.com
+last-updated: 2025-12-16
+language: en
